@@ -2,6 +2,10 @@
     margin-top: 20px;
 }
 
+.btn {
+    padding: 12px 20px;
+}
+
 .btn-default {
     border-color: #ccc;
 }
