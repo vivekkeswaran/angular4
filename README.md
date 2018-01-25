@@ -1,4 +1,4 @@
-# angular4_multistep_wizard
+# Angular4 Multistep Wizard Implementation
 
 Demo App to understand the working of Wizard or Checkout Implementation in Angular 4.
 
